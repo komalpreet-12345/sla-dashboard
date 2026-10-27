@@ -1,3 +1,6 @@
+https://datastudio.google.com/u/0/reporting/280b2aac-f53f-45ab-a8d4-39f7e6f59048/page/cn8BG
+<img width="795" height="488" alt="Screenshot 2026-10-26 190244" src="https://github.com/user-attachments/assets/9e8f968f-daff-468d-bd48-e33144736712" />
+<img width="791" height="504" alt="Screenshot 2026-10-26 190223" src="https://github.com/user-attachments/assets/cb182994-92be-4b50-99e6-421ce803d8cd" />
 # Automated Contributor Performance & SLA Dashboard
 
 An automated pipeline that pulls delivery data from Google Sheets, cleans and
@@ -46,7 +49,9 @@ That is a reduction of over 90% (99% for the refresh alone).
 
 ## Screenshots
 
-(Add your dashboard screenshots here: page 1, page 2, and the Sheet tabs.)
+(Add your dashboard screenshots here: page<img width="791" height="504" alt="Screenshot 2026-10-26 190223" src="https://github.com/user-attachments/assets/ca341e7b-c688-421c-8815-4cb1d50b9e7e" />
+<img width="791" height="504" alt="Screenshot 2026-10-26 190223" src="https://github.com/user-attachments/assets/f13cac3e-eb71-4b1a-b888-5077a143b4ba" />
+ 1, page 2, and the Sheet tabs.)
 
 ## How to run
 
